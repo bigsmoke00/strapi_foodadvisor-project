@@ -1,7 +1,6 @@
-# strapi-foodadivisor
-Atividade da disciplina de virtualização.
+# strapi_foodadivisor-project
 
-## COMANDOS UTILIZADOS
+## Projeto final
 
 ```bash
 # Iniciando minikube

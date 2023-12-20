@@ -21,11 +21,7 @@ docker build -t foodadvisor-client:1.0.0 ./client
 
 # Cria o deployment da API
 helm install foodadvisor ./strapi-foodadvisor
-```
 
-## OUTROS COMANDOS
-
-```bash
 # Lista os deployments
 kubectl get service,ingress
 
